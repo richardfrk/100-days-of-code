@@ -1,30 +1,49 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 001: February 21, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Implementing NSFetchResultController.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am feel excited. It's my (new) first day in this challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 002: February 22, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Implementing my CoreDataHelper.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am feel excited. Second day in this challenge.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 003: February 23, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Implementing my CoreDataHelper.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I am good. Third day in this challenge.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 004: February 24, 2017
+
+**Today's Progress**: Implementing my CoreDataHelper.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 005: February 25, 2017
+
+**Today's Progress**: Implementing my CoreDataHelper.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 006: February 26, 2017
+
+**Today's Progress**: Fighting with NSFetchResultsController.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
