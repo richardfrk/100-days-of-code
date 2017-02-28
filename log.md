@@ -47,3 +47,12 @@
 **Thoughts:** I am good.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 007: February 27, 2017
+
+**Today's Progress**: NSFetchResultsController and UserDefaults.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
