@@ -64,3 +64,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 009: March 1, 2017
+
+**Today's Progress**: NetworkHelper.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
