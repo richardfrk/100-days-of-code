@@ -88,3 +88,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 012: March 4, 2017
+
+**Today's Progress**: NetworkLayer.
+
+**Thoughts:** I am happy.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
