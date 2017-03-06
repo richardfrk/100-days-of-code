@@ -96,3 +96,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 013: March 5, 2017
+
+**Today's Progress**: SearchTableViewController.
+
+**Thoughts:** I am happy.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
