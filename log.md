@@ -128,3 +128,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 017: March 9, 2017
+
+**Today's Progress**: CacheHelper.
+
+**Thoughts:** I am tired.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
