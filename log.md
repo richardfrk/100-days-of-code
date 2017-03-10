@@ -136,3 +136,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 018: March 10, 2017
+
+**Today's Progress**: Playground.
+
+**Thoughts:** I am tired.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
