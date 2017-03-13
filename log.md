@@ -152,3 +152,11 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 020: March 12, 2017
+
+**Today's Progress**: API/JSON.
+
+**Thoughts:** I am tired.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
