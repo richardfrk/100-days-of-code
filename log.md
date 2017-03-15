@@ -160,3 +160,10 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
+### Day 021: March 13, 2017
+
+**Today's Progress**: NSDictionary.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
