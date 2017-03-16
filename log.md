@@ -167,3 +167,11 @@
 **Thoughts:** I am good.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 022: March 15, 2017
+
+**Today's Progress**: Instruments.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
