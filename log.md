@@ -183,3 +183,11 @@
 **Thoughts:** I am good.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 024: March 18, 2017
+
+**Today's Progress**: InterfaceBuilder.
+
+**Thoughts:** I am tired.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
