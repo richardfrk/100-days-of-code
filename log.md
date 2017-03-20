@@ -191,3 +191,11 @@
 **Thoughts:** I am tired.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 025: March 20, 2017
+
+**Today's Progress**: NetworkHelper.
+
+**Thoughts:** I am unmotivated.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
