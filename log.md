@@ -200,9 +200,17 @@
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
 
-### Day 025: March 22, 2017
+### Day 026: March 22, 2017
 
 **Today's Progress**: FirebaseHelper.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 027: March 23, 2017
+
+**Today's Progress**: Firebase.
 
 **Thoughts:** I am good.
 
