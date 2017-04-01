@@ -223,3 +223,11 @@
 **Thoughts:** I am good.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 029: April 01, 2017
+
+**Today's Progress**: GenreList.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
