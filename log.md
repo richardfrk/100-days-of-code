@@ -231,3 +231,11 @@
 **Thoughts:** I am good.
 
 **Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
+
+### Day 030: April 02, 2017
+
+**Today's Progress**: NetworkLayer/JSON.
+
+**Thoughts:** I am good.
+
+**Link(s) to work**: [TheMovieProject](https://github.com/richardfrk/TheMovieProject)
